@@ -3,9 +3,36 @@
 # Hi 👋, I'm Malik Waleed Hussain
 
 ### BS Computer Science Student & Aspiring AI-Powered Data Analyst
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-waleed4we%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleed4we@gmail.com)
+## 🔗 Connect With Me
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:waleed4we@gmail.com">
+        <img src="https://img.shields.io/badge/Email-waleed4we%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/waleed4we/">
+        <img src="https://img.shields.io/badge/LeetCode-waleed4we-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/waleed_4we/">
+        <img src="https://img.shields.io/badge/Instagram-waleed__4we-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/waleed4we">
+        <img src="https://img.shields.io/badge/X-@waleed4we-000000?style=for-the-badge&logo=x&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 </div>
 
 <br/>
