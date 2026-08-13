@@ -109,12 +109,9 @@
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=waleed4we&theme=midnight&hide_border=true&hide=stars,commits,prs,issues,streak,week,trend,avg,grade,repos,followers" width="65%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=waleed4we&theme=transparent&hide_border=true&hide_longest_streak=true&card_width=500&card_height=170" width="65%" />
 
 </div>
-
-
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=waleed4we&theme=react-dark&hide_border=true&area=true&custom_title=Waleed4we%27s%20Contributions" width="95%" />
 
