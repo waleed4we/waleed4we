@@ -105,6 +105,16 @@
 <img src="https://github-readme-stats.shion.dev/api?username=waleed4we&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="49%" height="200px" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=waleed4we&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" height="200px" />
 
+## 🔥 Contribution Highlights
+
+<div align="center">
+
+<img src="https://ghstats.dev/api/card?username=waleed4we&theme=midnight&hide_border=true&hide=stars,commits,prs,issues,streak,week,trend,avg,grade,repos,followers" width="65%" />
+
+</div>
+
+
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=waleed4we&theme=react-dark&hide_border=true&area=true&custom_title=Waleed4we%27s%20Contributions" width="95%" />
 
