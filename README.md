@@ -96,8 +96,6 @@ Fun Fact :        Data never lies — it just needs the right queries to speak.
 
 ## 🔥 Contribution Activity
 
-> Click the calendar below to open the live, interactive version on GitHub — hover over any square there to see that day's exact contribution count.
-
 <div align="center">
 
 <a href="https://github.com/waleed4we">
