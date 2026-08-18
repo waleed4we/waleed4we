@@ -78,11 +78,16 @@ Fun Fact :        Data never lies — it just needs the right queries to speak.
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=waleed4we&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)
+<a href="https://github.com/waleed4we/excel-return-leakage-dashboard">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=waleed4we&repo=excel-return-leakage-dashboard&theme=radical&show_owner=false" width="45%" />
+</a>
+<a href="https://github.com/waleed4we/ai-tools-usage-productivity-analytics">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=waleed4we&repo=ai-tools-usage-productivity-analytics&theme=radical&show_owner=false" width="45%" />
+</a>
 
 </div>
 
