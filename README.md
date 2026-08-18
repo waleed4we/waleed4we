@@ -94,8 +94,6 @@ Fun Fact :        Data never lies — it just needs the right queries to speak.
 
 </div>
 
-## 🔥 Contribution Activity
-
 <div align="center">
 
 <a href="https://github.com/waleed4we">
