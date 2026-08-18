@@ -105,7 +105,7 @@
 <img src="https://github-readme-stats.shion.dev/api?username=waleed4we&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="49%" height="200px" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=waleed4we&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="49%" height="200px" />
 
-## 🔥 Contribution Highlights
+## 🔥 Contribution Highlight
 
 <div align="center">
 
