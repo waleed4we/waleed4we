@@ -11,6 +11,7 @@
 <a href="mailto:waleed4we@gmail.com">
   <img src="https://img.shields.io/badge/Email-waleed4we%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<br>
 <a href="https://leetcode.com/u/waleed4we/">
   <img src="https://img.shields.io/badge/LeetCode-waleed4we-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
