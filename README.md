@@ -28,11 +28,11 @@
 ## 🧭 Currently
 
 ```yaml
-Working On:      E-Commerce Data Analytics
-Learning:        Data Modeling, Automation & Advanced Analytics
-Collaborating:   EDA & Dashboard Development
-Ask Me About:    SQL, Database Design, Power BI, Python Automation
-Fun Fact:        Data never lies — it just needs the right queries to speak.
+Working On :      E-Commerce Data Analytics
+Learning :        Data Modeling, Automation & Advanced Analytics
+Collaborating :   EDA & Dashboard Development
+Ask Me About :    SQL, Database Design, Power BI, Python Automation
+Fun Fact :        Data never lies — it just needs the right queries to speak.
 ```
 
 <br/>
