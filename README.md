@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Malik%20Waleed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Computer%20Science%20Student%20%7C%20Aspiring%20AI-Powered%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,25&height=200&section=header&text=Malik%20Waleed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Computer%20Science%20Student%20%7C%20Aspiring%20AI-Powered%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Data+never+lies%2C+it+just+needs+the+right+queries" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Data+never+lies%2C+it+just+needs+the+right+queries" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -83,10 +83,10 @@ Fun Fact :        Data never lies — it just needs the right queries to speak.
 <div align="center">
 
 <a href="https://github.com/waleed4we/excel-return-leakage-dashboard">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=waleed4we&repo=excel-return-leakage-dashboard&theme=radical&show_owner=false" width="45%" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=waleed4we&repo=excel-return-leakage-dashboard&theme=tokyonight&show_owner=false" width="45%" />
 </a>
 <a href="https://github.com/waleed4we/ai-tools-usage-productivity-analytics">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=waleed4we&repo=ai-tools-usage-productivity-analytics&theme=radical&show_owner=false" width="45%" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=waleed4we&repo=ai-tools-usage-productivity-analytics&theme=tokyonight&show_owner=false" width="45%" />
 </a>
 
 </div>
@@ -95,20 +95,20 @@ Fun Fact :        Data never lies — it just needs the right queries to speak.
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=waleed4we&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true" width="49%" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=waleed4we&theme=radical&hide_border=true&layout=compact&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.shion.dev/api?username=waleed4we&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show_icons=true" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=waleed4we&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="42%" />
 
 </div>
 
 <div align="center">
 
 <a href="https://github.com/waleed4we">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleed4we&theme=radical&hide_border=true&card_width=700&card_height=200" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleed4we&theme=tokyonight&hide_border=true&card_width=700&card_height=200" width="80%" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waleed4we&theme=react-dark&hide_border=true&area=true&custom_title=Waleed's%20Contribution%20Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=waleed4we&theme=tokyo-night&hide_border=true&area=true&custom_title=Waleed's%20Contribution%20Graph" width="95%" />
 
 </div>
 
@@ -116,12 +116,12 @@ Fun Fact :        Data never lies — it just needs the right queries to speak.
 
 <div align="center">
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=waleed4we&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=waleed4we&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,25&height=100&section=footer" width="100%"/>
 
 </div>
