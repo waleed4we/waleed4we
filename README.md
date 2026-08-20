@@ -29,7 +29,7 @@
 ## 🧭 Currently
 
 ```yaml
-Working On :      E-Commerce Data Analytics
+Working On :      Data Analytics
 Learning :        Data Modeling, Automation & Advanced Analytics
 Collaborating :   EDA & Dashboard Development
 Ask Me About :    SQL, Database Design, Power BI, Python Automation
