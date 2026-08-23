@@ -91,6 +91,9 @@ Fun Fact :        Data never lies — it just needs the right queries to speak.
 <a href="https://github.com/waleed4we/Countries-Data-Analysis">
   <img src="https://github-readme-stats.shion.dev/api/pin/?username=waleed4we&repo=Countries-Data-Analysis&theme=tokyonight&show_owner=false" width="45%" />
 </a>
+<a href="https://github.com/waleed4we/Anime-Feature-Extraction">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=waleed4we&repo=Anime-Feature-Extraction&theme=tokyonight&show_owner=false" width="45%" />
+</a>
 
 </div>
 
