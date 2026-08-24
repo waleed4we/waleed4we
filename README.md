@@ -118,14 +118,6 @@ Fun Fact :        Data never lies — it just needs the right queries to speak.
 
 </div>
 
-### 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=waleed4we&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,25&height=100&section=footer" width="100%"/>
