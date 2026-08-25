@@ -30,7 +30,7 @@
 
 ```yaml
 Working On :      Data Analytics
-Learning :        Data Modeling, Automation & Advanced Analytics
+Learning :        Data Modeling, Machine Learning, Automation & Advanced Analytics
 Collaborating :   EDA & Dashboard Development
 Ask Me About :    SQL, Database Design, Power BI, Python Automation
 Fun Fact :        Data never lies — it just needs the right queries to speak.
