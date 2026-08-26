@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,25&height=200&section=header&text=Malik%20Waleed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Computer%20Science%20Student%20%7C%20Aspiring%20AI-Powered%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:cba6f7&height=200&section=header&text=Malik%20Waleed&fontSize=42&fontColor=cdd6f4&animation=fadeIn&fontAlignY=35&desc=BS%20Computer%20Science%20Student%20%7C%20Aspiring%20AI-Powered%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Data+never+lies%2C+it+just+needs+the+right+queries" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Automation;Data+never+lies%2C+it+just+needs+the+right+queries" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="mailto:waleed4we@gmail.com">
-  <img src="https://img.shields.io/badge/Email-waleed4we%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-waleed4we%40gmail.com-CBA6F7?style=for-the-badge&logo=gmail&logoColor=1e1e2e" />
 </a>
-<br>
+<br></br>
 <a href="https://leetcode.com/u/waleed4we/">
-  <img src="https://img.shields.io/badge/LeetCode-waleed4we-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-waleed4we-F9E2AF?style=for-the-badge&logo=leetcode&logoColor=1e1e2e" />
 </a>
 <a href="https://www.instagram.com/waleed_4we/">
-  <img src="https://img.shields.io/badge/Instagram-waleed__4we-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-waleed__4we-F5C2E7?style=for-the-badge&logo=instagram&logoColor=1e1e2e" />
 </a>
 <a href="https://x.com/waleed4we">
-  <img src="https://img.shields.io/badge/X-@waleed4we-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-@waleed4we-B4BEFE?style=for-the-badge&logo=x&logoColor=1e1e2e" />
 </a>
 
 </div>
